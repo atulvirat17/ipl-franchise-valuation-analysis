@@ -3,7 +3,6 @@
 A statistical analysis of what drives the brand value of Indian Premier League (IPL) franchises, built entirely on live Excel formulas.
 
 **Course:** BM5104H Business Statistics and Data Analysis for Management
-**Assignment:** Data Tank Group Assignment, Team Shark 9
 
 ---
 
